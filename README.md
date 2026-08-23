@@ -76,7 +76,7 @@ My portfolio website contains additional information about my technical skills, 
 
 AWS Terraform Linux Python Bash Git GitHub Docker CloudWatch EC2 IAM VPC S3 SNS SSM
 
-📚 Currently Learning
+📚  Key Skills
 Advanced AWS architecture
 DevOps practices
 CI/CD automation
@@ -84,6 +84,7 @@ Kubernetes
 Infrastructure automation
 Site Reliability Engineering
 Cloud security and reliability
+
 🎯 Career Focus
 
 I'm interested in opportunities involving:
