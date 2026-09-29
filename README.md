@@ -1,39 +1,32 @@
-# Hi, I'm Sameer Maniyar 👋
+Hi, I'm Sameer Maniyar 👋
+AWS Data Engineer | AWS | Python | SQL | ETL | Data Pipelines
 
-### Cloud Engineer | AWS | DevOps | Infrastructure Automation
+AWS Data Engineer with 2+ years of experience working with AWS cloud environments, Python, SQL, automation, monitoring, troubleshooting, and cloud-based solutions.
 
-Cloud Engineer with 2+ years of experience working with AWS infrastructure, Linux systems, networking, monitoring, troubleshooting, and automation.
+I am building hands-on expertise in AWS Data Engineering, with a focus on Python, SQL, ETL/ELT, data transformation, data processing, data validation, cloud data storage, and data pipelines.
 
-I enjoy building reliable cloud infrastructure and automating operational tasks using **AWS, Terraform, Python, Bash, and Linux**.
+I enjoy working with AWS services to build reliable and scalable data solutions and automate cloud-based workflows.
 
-Currently focused on growing deeper in **Cloud Engineering, DevOps, Site Reliability Engineering, Infrastructure as Code, and cloud automation**.
+☁️ AWS Data Engineering
+Cloud Platform: AWS
+Programming: Python, SQL
+Data Engineering: ETL, ELT, Data Pipelines, Data Processing, Data Transformation, Data Ingestion
+Data Validation: Data Quality Checks, Data Validation, Data Processing
+AWS Data Services: Amazon S3, AWS Glue, AWS Glue Data Catalog, Amazon Athena, Amazon Redshift
+AWS Services: AWS Lambda, Amazon RDS, AWS IAM, Amazon CloudWatch, Amazon EC2, EventBridge
+Automation: Python, Bash, AWS Lambda
+Infrastructure as Code: Terraform
+Operating Systems: Linux, Windows
+Version Control: Git, GitHub
+Cloud Monitoring: Amazon CloudWatch
+Cloud Concepts: AWS infrastructure, cloud storage, networking, security and automation
+🚀 Featured Project
+AWS Self-Healing Cloud Infrastructure
 
----
+An AWS infrastructure automation project designed to automatically detect and recover from high CPU utilization with minimal manual intervention.
 
-## ☁️ Cloud & DevOps
+Architecture
 
-- Cloud:AWS
-- Infrastructure as Code: Terraform
-- Operating Systems:Linux, Windows
-- Automation:Python, Bash
-- Monitoring: Amazon CloudWatch
-- AWS Services:EC2, IAM, VPC, S3, SNS, Systems Manager
-- Version Control: Git, GitHub
-- Containers: Docker
-- Orchestration: Kubernetes — currently learning
-- Networking:TCP/IP, DNS, DHCP, IPv4, subnetting, cloud networking
-
----
-
-## 🚀 Featured Project
-
-### AWS Self-Healing Cloud Infrastructure
-
-An AWS infrastructure project designed to automatically detect and recover from high CPU utilization.
-
-**Architecture**
-
-```text
 EC2
  ↓
 CloudWatch Monitoring
@@ -42,19 +35,20 @@ High CPU Alarm
  ↓
 SNS Notification
  ↓
+AWS Systems Manager
+ ↓
 Automated EC2 Recovery
 
 The project includes:
 
-EC2 infrastructure
-CloudWatch monitoring
+Amazon EC2 infrastructure
+Amazon CloudWatch monitoring
 High CPU CloudWatch alarm
-SNS email notifications
+Amazon SNS email notifications
 AWS Systems Manager automation
 Automated EC2 recovery
 Terraform Infrastructure as Code
 Infrastructure testing and validation
-
 🔎 Verified Results
 High CPU condition successfully generated
 CloudWatch alarm successfully triggered
@@ -64,34 +58,64 @@ Terraform validation completed successfully
 terraform plan verified No changes
 Infrastructure confirmed to match the Terraform configuration
 
-👉 View Project  https://github.com/sameersm831/AWS-self-healing-cloud-infrastructure
+👉 View Project:
+https://github.com/sameersm831/AWS-self-healing-cloud-infrastructure
 
-🌐 Portfolio
+📊 AWS Data Engineering Focus
 
-My portfolio website contains additional information about my technical skills, projects, and learning journey.
+Currently developing hands-on AWS Data Engineering projects focused on:
 
-👉 Visit My Portfolio https://github.com/sameersm831/sameermaniyar-portfolio
-
+Python-based data processing
+SQL querying and data analysis
+ETL / ELT workflows
+Data ingestion
+Data transformation
+Data validation
+Data quality checks
+Batch data processing
+Amazon S3 data storage
+AWS Glue ETL workflows
+AWS Glue Data Catalog
+Amazon Athena
+Amazon Redshift
+Cloud-based data pipelines
 🛠️ Technologies
 
-AWS Terraform Linux Python Bash Git GitHub Docker CloudWatch EC2 IAM VPC S3 SNS SSM
-
-📚  Key Skills
-Advanced AWS architecture
-DevOps practices
-CI/CD automation
-Kubernetes
-Infrastructure automation
-Site Reliability Engineering
-Cloud security and reliability
+AWS | Python | SQL | Amazon S3 | AWS Glue | AWS Glue Data Catalog | Amazon Athena | Amazon Redshift | AWS Lambda | Amazon RDS | AWS IAM | Amazon CloudWatch | Amazon EC2 | EventBridge | Terraform | Git | GitHub | Linux | Bash
 
 🎯 Career Focus
 
 I'm interested in opportunities involving:
 
-Cloud Engineering • DevOps • SRE • AWS Infrastructure • Infrastructure Automation • Platform Engineering
+AWS Data Engineering • Data Engineering • ETL • AWS Glue • Data Pipelines • Python • SQL • Data Transformation • Data Processing • Cloud Data Engineering
 
+🌐 Portfolio
+
+My portfolio website contains additional information about my technical skills, AWS projects, and Data Engineering learning journey.
+
+👉 Visit My Portfolio:
+https://github.com/sameersm831/sameermaniyar-portfolio
+
+📚 Key Skills
+AWS Data Engineering
+Python
+SQL
+ETL / ELT
+Data Pipelines
+Data Transformation
+Data Processing
+Data Validation
+AWS Glue
+AWS Glue Data Catalog
+Amazon S3
+Amazon Athena
+Amazon Redshift
+AWS Lambda
+Cloud Automation
+Infrastructure as Code
+Git and GitHub
 🤝 Connect With Me
+
 GitHub: @sameersm831
 LinkedIn: Sameer Maniyar
 Email: sameermaniyar2016@gmail.com
