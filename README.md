@@ -93,9 +93,6 @@ AWS Data Engineering • Data Engineering • ETL • AWS Glue • Data Pipeline
 
 My portfolio website contains additional information about my technical skills, AWS projects, and Data Engineering learning journey.
 
-👉 Visit My Portfolio:
-https://github.com/sameersm831/sameermaniyar-portfolio
-
 📚 Key Skills
 AWS Data Engineering
 Python
@@ -118,6 +115,6 @@ Git and GitHub
 
 GitHub: @sameersm831
 LinkedIn: Sameer Maniyar
-Email: sameermaniyar2016@gmail.com
+Email: sameermm5119@gmail.com
 
 ⭐ Thanks for visiting my profile!
